@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log.*
+.vscode
+.yarnclean
+yarn-error.log
+npm-debug.log
+public/*
+.DS_Store
+.idea
+webpack.config.js
+package-lock.json
